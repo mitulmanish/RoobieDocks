@@ -1,0 +1,4 @@
+1.I have been programming in Ruby for some time roughly six months.
+I personally find the concept of blocks,lambda difficult to understand.
+
+2. Sometimes I struggle with Ruby Meta-programming.
